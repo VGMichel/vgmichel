@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://github.com/VGMichel/vgmichel/blob/master/assets/five-kasen_1.png" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=50&duration=4000&pause=300&color=36BAB3&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello there!+%E2%80%A2+call me val;%E2%9C%A9+a+dev+techie+from+the+stars+%E2%9C%A9" width="70%" />
+<img src="https://github.com/VGMichel/vgmichel/blob/master/assets/pixel-city.gif" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=50&duration=4000&pause=300&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello there!+%E2%80%A2+call me val;%E2%9C%A9+a+dev+techie+from+the+stars+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
     💼 BS @ WGU • Front-end dev • Software dev
@@ -10,7 +10,7 @@
     🌙 From the moon to saturn & back 🪐
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://github.com/VGMichel/vgmichel/blob/master/assets/pixel-cat.gif" height="40" />
 <br><br><br>
     
 <!--[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
