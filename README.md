@@ -10,7 +10,7 @@
     🌙 From the moon to saturn & back 🪐
 </pre>
 <br><br>
-<img src="https://github.com/VGMichel/vgmichel/blob/master/assets/pixel-cat.gif" height="40" />
+<img src="https://media.tenor.com/yBoHKCnfba8AAAAi/ham4.gif" height="40" />
 <br><br><br>
     
 <!--[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
